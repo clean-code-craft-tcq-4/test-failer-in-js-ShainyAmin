@@ -20,7 +20,7 @@ jobs:
         run:   "node tshirts.js"
 
       - name: misaligned fail
-        run:   "node misaligned.js"
+        run:   "node misalignedTest.js"
 
       - name: alerter fail
-        run:   "node alerter.js"
+        run:   "node alerterTest.js"
