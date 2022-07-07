@@ -11,7 +11,8 @@ function size(cms) {
         return 'M';
     } else {
         return 'L';
-    }}
+    }
+}
     else{
         return 'NaN';
     }
